@@ -1,1 +1,1 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
+wizard_of_wikipedia.zip filter=lfs diff=lfs merge=lfs -text
